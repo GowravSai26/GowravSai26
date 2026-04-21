@@ -1,72 +1,62 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="150"/>
-  
-  <h1 align="center">
-    Hi there, I'm Gowrav Sai Veeramallu 
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  </h1>
-  
-  <h3 align="center">A Data and AI Engineer from Vishakapatnam, India.</h3>
-  
-  <p align="center">
-    I am passionate about leveraging data to build intelligent and scalable applications. My expertise lies in developing end-to-end AI solutions, from crafting robust backend systems with FastAPI to creating dynamic user interfaces with Next.js and architecting complex agentic workflows.
-  </p>
-  
-  <div id="socials" align="center">
-    <a href="https://www.linkedin.com/in/Gowrav-Sai-Veeramallu" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:gowravnagsai@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Gowrav%20Sai%20Veeramallu&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<h3>Agentic AI Engineer · Backend Systems · Gen AI</h3>
+<p><i>Building autonomous AI systems that solve real financial problems at scale</i></p>
+
+<a href="https://www.linkedin.com/in/Gowrav-Sai-Veeramallu" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:gowravnagsai@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://argus-seven-black.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Argus-Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://aegis-zeta-ten.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/AEGIS-Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
 
 ---
+## 🚀 Featured Projects
 
-### 🔭 About Me
-
-- 👯 I’m looking to collaborate on projects involving **AI-powered agents, Retrieval-Augmented Generation (RAG), and modular system design**.
-- 🌱 I’m currently diving deeper into **multi-agent collaboration frameworks and advanced agentic workflows**.
-- 💬 Ask me about **Python, FastAPI, LangChain/LangGraph, and building AI agents**.
-- 📫 You can reach me at: **gowravnagsai@gmail.com**
-- ⚡ Fun fact: I'm fascinated by the potential of creating autonomous AI agents that can reason and solve complex problems.
+| Project | What it solves | Live |
+|---|---|---|
+| [**Argus**](https://github.com/GowravSai26/argus) | Autonomous fraud investigation — 100% precision/recall, <2.5s | [Demo](https://argus-seven-black.vercel.app/) |
+| [**AEGIS**](https://github.com/GowravSai26/aegis) | Autonomous chargeback defense — $125B problem, 5-agent system | [Demo](https://aegis-zeta-ten.vercel.app/) |
 
 ---
 
-### 💻 Tech Stack & Skills
+## 💼 Experience
 
-* **Programming Languages:**
-    * `Python` `Java` `C++` `SQL`
+**AI Engineer Intern** · 73 Bit Limited · *Oct 2025 – Present*
+Production agentic RAG systems · 35% retrieval precision improvement · 28% inference cost reduction
 
-* **AI & Machine Learning:**
-    * `LangChain` `LangGraph` `Retrieval-Augmented Generation (RAG)`
-    * `PyTorch` `Transformers` `Agent ADK` `MCP` `n8n`
-
-* **Backend & Frontend:**
-    * `FastAPI` `Next.js`
-
-* **Databases:**
-    * `PostgreSQL` `Redis`
-
-* **Tools & Platforms:**
-    * `Docker` `Git` `Google Cloud (GCP)` `Vercel` `Linux`
+**AI Engineer Intern** · Sails Software Solutions · *Jul – Nov 2025*
+LangGraph/CrewAI agentic workflows · Stateful agent systems · Airflow + dbt data pipelines
 
 ---
 
-### 🚀 My Projects
+## 📜 Certifications
+
+[![Anthropic](https://img.shields.io/badge/Build_with_Claude-Anthropic-CC785C?style=flat&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/vrqh4mmqu4jt)
+&nbsp;
+[![Anthropic](https://img.shields.io/badge/Claude_Code_in_Action-Anthropic-CC785C?style=flat&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/23ihj8efwbgh)
+
+---
 
 <div align="center">
-  <i>This section is a work in progress. Stay tuned for project showcases!</i>
-  <br/><br/>
-  </div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=GowravSai26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowravSai26&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
 
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GowravSai26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gowrav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowravSai26&layout=compact&theme=tokyonight&hide_border=true" alt="Gowrav's Top Languages" />
 </div>
